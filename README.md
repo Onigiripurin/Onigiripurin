@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Onigiripurin/Onigiripurin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🖋️ Languages
+[![My Skills](https://skillicons.dev/icons?i=ts,js,ruby,html,css)](https://skillicons.dev)
 
-Here are some ideas to get you started:
+### ⚛️ Frameworks & Libraries
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,rails)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☁️ Cloud & Infra
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,docker)](https://skillicons.dev)
+
+### 🗄️ Databases
+[![My Skills](https://skillicons.dev/icons?i=mysql,dynamodb)](https://skillicons.dev)
+
+### 🔧 Tools
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
