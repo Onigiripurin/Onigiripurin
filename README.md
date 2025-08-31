@@ -7,10 +7,10 @@
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,rails)](https://skillicons.dev)
 
 ### ☁️ Cloud & Infra
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,ansible,docker)](https://skillicons.dev)
 
 ### 🗄️ Databases
 [![My Skills](https://skillicons.dev/icons?i=mysql,dynamodb)](https://skillicons.dev)
 
 ### 🔧 Tools
-[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,vscode,linux,figma)](https://skillicons.dev)
