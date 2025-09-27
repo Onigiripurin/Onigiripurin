@@ -10,7 +10,7 @@
 [![Languages](https://skillicons.dev/icons?i=ts,js,ruby,java,html,css)](https://skillicons.dev)
 
 ### ⚛️ フレームワーク & ライブラリ
-[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,rails)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,rails,spring)](https://skillicons.dev)
 
 ### ☁️ クラウド & インフラ
 [![Cloud](https://skillicons.dev/icons?i=aws,azure,gcp,terraform,docker,ansible)](https://skillicons.dev)
