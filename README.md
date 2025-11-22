@@ -7,7 +7,7 @@
 ## 🛠️ スキル
 
 ### 🖋️ 言語
-[![Languages](https://skillicons.dev/icons?i=ruby,go,ts,js,html,css)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=ruby,go,java,ts,js,html,css)](https://skillicons.dev)
 
 ### ⚛️ フレームワーク & ライブラリ
 [![Frameworks](https://skillicons.dev/icons?i=react,nextjs,rails,spring)](https://skillicons.dev)
